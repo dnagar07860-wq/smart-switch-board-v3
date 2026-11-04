@@ -2,17 +2,13 @@
   "id": "./",
   "name": "Smart Switch Board",
   "short_name": "Smart Board",
-  "description": "Smart Switch Board app with configurable switches and automatic timers.",
+  "description": "Configurable smart switch board demo with saved settings and auto-off timers.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#08111f",
   "theme_color": "#0b1220",
-  "categories": [
-    "utilities",
-    "productivity"
-  ],
   "icons": [
     {
       "src": "./icons/icon-192.png",
@@ -33,4 +29,4 @@
       "purpose": "maskable"
     }
   ]
-}\n
+}
